@@ -1,3 +1,4 @@
+#RB100 Basics exercise 3
 #This code shows how to make a hash (AKA dict) print out all the values of the hash line by line
 # print method could be used to make them print on same line
 # could also call each key i.e. "Gone_with_the_Wind" to make it print each value -

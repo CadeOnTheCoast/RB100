@@ -1,4 +1,5 @@
-# code for the 4th example in RB 100
+# RB100 Basics exercise 4
+# code for the 4th example in RB 100 Basics chapter
 movies = [1939, 2009, 1997, 1977]
 #  printing each array value via index each one individually
 puts movies[0]

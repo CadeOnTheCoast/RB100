@@ -1,4 +1,5 @@
 =begin
+#RB100 Basics exercise 2
 RB100 solution to use division and modulus to get each digit (thousands, hundreds, tens, ones)
 from an integer (or float)
 I had an alternative solution that was much less elegant and wouldn't work on a random number
